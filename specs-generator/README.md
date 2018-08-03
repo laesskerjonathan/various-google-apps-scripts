@@ -1,0 +1,2 @@
+SpecsOverviewGenerator.gs parses a report from HWInfo32 and creates an overview Spreadsheet in the current folder. The reports must be placed in a subfolder called "Specs". Using IFTT, a trigger can be created for executing the script when a new file is dumped in the folder.
+DevicesReport.gs collects several reports from different folders and collects all data in one single Spreadsheet. The IDs of the folders must be changed in the script.

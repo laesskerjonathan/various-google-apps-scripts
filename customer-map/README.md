@@ -1,0 +1,1 @@
+CustomerMap.gs creates a map with data from Swiss zip codes. Per zip code one Marker is created with a red icon. If several Markers are in the same place, the size of the marker is increased.
